@@ -6,3 +6,4 @@
   - [Section 2: Networking Basics](./core1/networking_basics.md)
   - [Section 3: Hardware](./core1/hardware.md)
   - [Section 4: Virtualization and Cloud](./core1/virtualization_cloud.md)
+  - [Section 5: Hardware and Network Troubleshooting](./core1/troubleshooting.md)
